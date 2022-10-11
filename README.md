@@ -3,6 +3,10 @@
 ### The final product is a web app that helps the user create a watch list of movies/tv series they intend to watch, rate and view ratings of movies/tv series from other users.
 #
 ### Preview
+
+https://user-images.githubusercontent.com/75164307/195116904-ee636f55-ee7f-464f-95ce-5c8994e538b9.mp4
+
+
 ![integrative](https://user-images.githubusercontent.com/75164307/194551794-faebac5b-6065-4626-b2e3-f0d1bfba9944.png)
 #
 ### Kanban board for the beginning of the last sprint:
